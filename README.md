@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
-  Currently an undergraduate finishing up the Computer Science major this December at the University of Virginia. Looking to start part-time Masters in Data Science or A.I. starting January 2024!
+  I am currently an undergraduate finishing up my Computer Science major this December at the University of Virginia. Looking to start part-time Masters in Data Science or A.I. starting January 2024!
 </h3>
 
 <h3 align="center">
@@ -21,7 +21,7 @@
 
 - 👨‍💻 My GitHub Work **[https://github.com/glendonC](https://github.com/glendonC)**
 
-- 💬 Love to talk anything **study-abroad 🌍 and soccer ⚽ related  **!
+- 💬 Love to talk anything **study-abroad 🌍 and soccer ⚽ related!**
 
 - 📫 Contact me at **glendonchin@gmail.com**
 
