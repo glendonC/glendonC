@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
-  I am currently an undergraduate finishing up my Computer Science major this December at the University of Virginia. Looking to start part-time Masters in Data Science or A.I. starting January 2024!
+  I am currently an undergraduate finishing up my Computer Science major this December at the University of Virginia. I am going to start my Masters in Data Science at the University of Texas at Austin starting January 2024!
 </h3>
 
 <h3 align="center">
