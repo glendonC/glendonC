@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glendonC&label=Profile%20views&color=0e75b6&style=flat" alt="glendonC" /> </p>
 
-- 🔭 I’m currently an undergraduate student and am interning part-time as a **Admissions Intern** at UVA
+- 🔭 I’m currently an undergraduate student and am interning part-time as a **Campus Tour Guide** at UVA
 
 - 🌱 I’m currently taking classes on **Algorithms, Databases, and Internet Scale Applications**
 
