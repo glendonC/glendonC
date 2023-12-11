@@ -4,12 +4,12 @@
 </h1>
 
 <h3 align="center">
-  I am currently an undergraduate finishing up my Computer Science major this December at the University of Virginia. I am going to start my Masters in Data Science at the University of Texas at Austin starting January 2024!
+  I'm a student enrolled in the Master's of Data Science program at UT Austin! I hope to broaden my skillset and perspective through this technical program and apply it to my personal project, Hanguru. I will also be entering the Depository Trust and Clearing Corporation (DTCC) in their EDGE program starting July 2024, where I'll be working through different rotations as a Business Systems Analyst. Through this program, I am looking to gain practical experience both in the tech and business sectors so that by the time my rotations are done and I have completed my MSDS, I can explore the possibility of doing an MBA such that I can lead large scale technical projects in the future. 
 </h3>
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/erencan-pelin/">
+  <a href="https://www.linkedin.com/in/glendonchin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="#">
