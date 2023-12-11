@@ -1,12 +1,29 @@
-<h1 align="center">Hey 👋, I'm Glendon 😁</h1>
-<p align="center">
-  <img width="400" src="pngwing.com.png" alt="Profile Picture">
-</p>
-
+<h1 align="center">
+  Hi 👋! I'm Glendon 😁
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <h3 align="center">
   I am currently an undergraduate finishing up my Computer Science major this December at the University of Virginia. I am going to start my Masters in Data Science at the University of Texas at Austin starting January 2024!
 </h3>
+
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/erencan-pelin/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+
+<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=glendonC&theme=tokyonight)](https://github.com/erencanpelin)
+[![Glendons's GitHub stats](https://github-readme-stats.vercel.app/api?username=glendonC&theme=tokyonight&show_icons=true)](https://github.com/erencanpelin)
+[![Glendon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glendonC&theme=tokyo-night&height=300&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glendonC&layout=compact&langs_count=8&hide=shaderlab,hlsl,css,cmake&theme=tokyonight)](https://github.com/erencanpelin)
+
 
 <h3 align="center">
   Check out my personal website at this <a href="https://glendonc.github.io/meWebsite/#home"><strong>link</strong></a>
@@ -26,13 +43,6 @@
 - 📫 Contact me at **glendonchin@gmail.com**
 
 <p>&nbsp;</p>
-
-<div align="left">
-  <h2 align="left">Connect with Me 🙋‍♂️</h2>
-  <p align="left">
-    <a href="https://linkedin.com/in/glendonchin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="glendonchin" height="30" width="40" /></a>
-  </p>
-</div>
 
 <p>&nbsp;</p>
 
@@ -78,20 +88,4 @@
 </div> 
 
 <p>&nbsp;</p>
-
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glendonC&show_icons=true&locale=en&layout=compact" alt="glendonC" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=glendonC&show_icons=true&locale=en" alt="glendonC" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=glendonC" alt="glendonC" />
-    </td>
-  </tr>
-</table>
 
