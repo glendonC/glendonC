@@ -10,11 +10,13 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/glendonchin/">
+      <a href="https://glendonc.github.io/meWebsite/"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white" alt="Website Badge"></a>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=glendonC&amp;style=for-the-badge" alt="Profile Views Count Badge">
 </div>
 
 <br>
@@ -22,19 +24,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=glendonC&theme=tokyonight)](https://github.com/erencanpelin)
 [![Glendons's GitHub stats](https://github-readme-stats.vercel.app/api?username=glendonC&theme=tokyonight&show_icons=true)](https://github.com/erencanpelin)
 [![Glendon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glendonC&theme=tokyo-night&height=300&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glendonC&layout=compact&langs_count=8&hide=shaderlab,hlsl,css,cmake&theme=tokyonight)](https://github.com/erencanpelin)
 
 
-<h3 align="center">
-  Check out my personal website at this <a href="https://glendonc.github.io/meWebsite/#home"><strong>link</strong></a>
-</h3>
 <img align="right" alt="Coding" width="400" src="kakaofriends-kakao-talk.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=glendonC&label=Profile%20views&color=0e75b6&style=flat" alt="glendonC" /> </p>
-
-- 🔭 I’m currently an undergraduate student and am interning part-time as a **Campus Tour Guide** at UVA
-
-- 🌱 I’m currently taking classes on **Algorithms, Databases, and Internet Scale Applications**
 
 - 👨‍💻 My GitHub Work **[https://github.com/glendonC](https://github.com/glendonC)**
 
