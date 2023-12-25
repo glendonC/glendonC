@@ -32,7 +32,7 @@
 
 - 💬 Love to talk anything **study-abroad 🌍 and soccer ⚽ related!**
 
-- 📫 Contact me at **glendonchin@gmail.com**
+- 📫 Contact me at **glendonchin@gmail.com**!
 
 <p>&nbsp;</p>
 
