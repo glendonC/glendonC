@@ -30,7 +30,7 @@
 
 - 👨‍💻 My GitHub Work **[https://github.com/glendonC](https://github.com/glendonC)**
 
-- 💬 Love to talk anything **study-abroad 🌍 and soccer ⚽ related!**
+- 💬 Love to talk anything **study-abroad 🌍 and sports ⚽ related!**
 
 - 📫 Contact me at **glendonchin@gmail.com**!
 
