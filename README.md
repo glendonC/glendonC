@@ -9,10 +9,8 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/glendonchin/">
-      <a href="https://glendonc.github.io/personalportfolio/"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white" alt="Website Badge"></a>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+    <a href="https://glendonc.github.io/personalportfolio/"><img src="https://img.shields.io/badge/-Website-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white" alt="Website Badge"></a>
+    <a href="https://www.linkedin.com/in/glendonchin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="#">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
