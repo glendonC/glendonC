@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  I'm a student enrolled in the Master's of Data Science program at UT Austin! I hope to broaden my skillset and perspective through this technical program and apply it to my personal project, Hanguru. I will also be entering the Depository Trust and Clearing Corporation (DTCC) in their EDGE program starting July 2024, where I'll be working through different rotations as a Business Systems Analyst. Through this program, I am looking to gain practical experience both in the tech and business sectors so that by the time my rotations are done and I have completed my MSDS, I can explore the possibility of leading large scale technical projects in the future!
+  Currently an IT EDGE Analyst at DTCC while completing my MSDS at UT Austin (exp. May 2025).
 </h3>
 
 
