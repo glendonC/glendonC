@@ -19,7 +19,7 @@
 
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=glendonC&theme=tokyonight)](https://github.com/erencanpelin)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=glendonC)](https://git.io/streak-stats)
 [![Glendons's GitHub stats](https://github-readme-stats.vercel.app/api?username=glendonC&theme=tokyonight&show_icons=true)](https://github.com/erencanpelin)
 [![Glendon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=glendonC&theme=tokyo-night&height=300&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
