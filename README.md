@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Currently an IT EDGE Analyst at DTCC while completing my MSDS at UT Austin (exp. May 2025).
+  Currently an IT EDGE Analyst at DTCC while completing my MSDS at UT Austin (exp. May 2025). Most of my contributions for work are being done on Bitbucket :D
 </h3>
 
 
