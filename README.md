@@ -51,7 +51,7 @@
 ### 🧰 Tech Stack
 ---
 
-### 🧠 Core AI & ML Stack  
+### Core AI & ML Stack  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
 ![JAX](https://img.shields.io/badge/-JAX-000000?style=flat)
@@ -63,7 +63,7 @@
 
 ---
 
-### 💻 Full-Stack Development  
+### Full-Stack Development  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
@@ -76,7 +76,7 @@
 
 ---
 
-### 🛠️ DevOps & Cloud Infrastructure  
+### DevOps & Cloud Infrastructure  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions)
@@ -89,7 +89,7 @@
 
 ---
 
-### 📊 Data Engineering & Pipelines  
+### Data Engineering & Pipelines  
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark)
 ![dbt](https://img.shields.io/badge/-dbt-F16234?style=flat&logo=dbt)
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow)
@@ -99,7 +99,7 @@
 
 ---
 
-### 🔒 Security & Observability  
+### Security & Observability  
 ![HashiCorp Vault](https://img.shields.io/badge/-Vault-000000?style=flat&logo=vault)
 ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-6E4AFF?style=flat)
 
