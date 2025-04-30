@@ -24,7 +24,7 @@
 - Building tools that bridge AI, design, and human context  
 - Most of my professional work lives on **Bitbucket** (DTCC), but my personal builds live here  
 - Projects often center around real-world messiness — language, identity, and intuitive interfaces  
-- Outside of tech: I’m probably exploring cafes, learning Korean, or healing up to return to ⚽
+- Outside of tech: Piano practice, learning Korean, or healing up to return to ⚽
 
 ---
 
