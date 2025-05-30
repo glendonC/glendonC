@@ -120,11 +120,3 @@
 </div>
 
 ---
-
-### 📫 Contact
-
-- 📬 **Email**: glendonchin@gmail.com  
-- 🌐 **Portfolio**: [glendonchin.com](https://glendonchin.com)  
-- 🤝 **LinkedIn**: [linkedin.com/in/glendonchin](https://www.linkedin.com/in/glendonchin/)
-
----
