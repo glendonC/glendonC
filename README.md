@@ -22,7 +22,7 @@
 ### 👨‍💻 About Me
 
 - Building tools that bridge AI, design, and human context  
-- Most of my professional work lives on **Bitbucket** (DTCC), but my personal builds live here  
+- Most of my professional work lives on **Bitbucket**, but my personal builds live here  
 - Projects often center around real-world messiness i.e. language, identity, and intuitive interfaces  
 - Outside of tech: Piano practice, learning Korean, or healing up to return to ⚽
 
@@ -31,7 +31,7 @@
 ### 💼 Education
 
 - 🎓 **M.S. in Data Science**, University of Texas at Austin (2024–2025)  
-- 🎓 **B.A. in Computer Science**, University of Virginia (2021–2023, graduated early)
+- 🎓 **B.A. in Computer Science**, University of Virginia (2021–2023)
 
 ---
 
