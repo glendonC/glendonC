@@ -103,6 +103,5 @@ Always down to discuss technical architecture, especially around real-time infer
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glendonC&theme=tokyonight&show_icons=true&hide=stars" height="165"/>
   <img src="https://streak-stats.demolab.com?user=glendonC&theme=tokyonight&hide_border=true" height="165"/>
 </div>
