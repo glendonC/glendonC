@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Technologist at the intersection of AI, design, and cultural storytelling.<br>
+  Building personal intelligence systems where your data becomes clarity.<br>
   IT EDGE Analyst @ DTCC | MSDS @ UT Austin (2024–2025) | BACS @ UVA (2021–2023)
 </h3>
 
@@ -21,102 +21,88 @@
 
 ### 👨‍💻 About Me
 
-- Building tools that bridge AI, design, and human context  
-- Most of my professional work lives on **Bitbucket**, but my personal builds live here  
-- Projects often center around real-world messiness i.e. language, identity, and intuitive interfaces  
-- Outside of tech: Piano practice, learning Korean, or healing up to return to ⚽
+I'm building **Seorak**, a personal intelligence platform that turns your words into a queryable knowledge web. Not another productivity app. Not generic AI advice. Your actual context, made visual and actionable.
 
----
+What drives my work:
+- **Personal intelligence systems** that understand you, not just data
+- **Real-time inference optimization** (sub-100ms latency at scale)
+- **Agentic LLM architectures** with automatic context classification
 
-### 💼 Education
+Outside tech: soccer, tennis, korean and piano practice
 
-- 🎓 **M.S. in Data Science**, University of Texas at Austin (2024–2025)  
-- 🎓 **B.A. in Computer Science**, University of Virginia (2021–2023)
-
----
-
-### 🚀 Featured Projects
+### 💡 Other Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **ConnectML** | Natural language → ML pipeline builder with 2D + 3D visualizations and editable components. | LangGraph, Tavily, React, Three.js |
-| **AI Model Lab** | Interactive 3D environment for exploring and benchmarking AI models. Visualizes architecture, GPU-accelerated runtime comparisons, and exports deployable code. | TypeScript, React Three Fiber, NVIDIA RAPIDS (cuDF), Drei |
-| **GitDeets** | AI-powered Git repo analyzer that converts source code into structured, prompt-ready context for AI copilots. | TypeScript, NVIDIA NIM (LLaMA-3.3 49B), GitIngest |
-| **Plant New Roots** | AI language tutor tailored to culture and learning goals. Supports practice across reading, writing, listening, and speaking. | Gemini, Dialogflow, Flask |
-| **Mallards** | Financial fairness sandbox that predicts and prevents bias in lending models before deployment. | D3.js, Seaborn, Scikit-learn |
-| **Scanmon** | Turn real-world objects into Pokémon-style AI creatures and battle them with generated traits. | YOLO, Python, NVIDIA NIM (LLaMA & Mistral), LLMs |
+| **Polyglot** | Semantic code translator across 50+ languages. Finds functionally equivalent implementations using vector embeddings, not just syntax. Handles idiomatic patterns (Python list comprehensions → Java streams). | Pinecone, OpenAI Embeddings, FastAPI, LangChain |
+| **NeuralMarket** | Multi-agent RL trading simulator where LLM agents learn strategies through self-play. Implements realistic market microstructure (order books, slippage, latency) + GPT-4 reasoning. Includes explainability dashboards. | Ray, PyTorch, RL algorithms, Plotly Dash |
+| **ConnectML** | Natural language → production ML pipeline. Type "predict churn from usage logs" and get full sklearn/PyTorch pipeline with tuning, feature engineering, and 3D SHAP visualizations. | LangGraph, Tavily, React Three Fiber, SHAP |
+| **CogniGraph** | Auto knowledge graph builder from unstructured text (papers, docs, conversations). LLM-driven schema inference + Neo4j traversal. Powers semantic search that understands conceptual proximity. | LlamaIndex, Neo4j, Sentence-Transformers, Cypher |
+| **RealtimeLLM** | WebSocket streaming inference server with <100ms P99 latency. Implements speculative decoding, KV-cache optimization, dynamic batching. Handles 500+ concurrent users. | vLLM, NVIDIA Triton, FastAPI WebSockets, Redis |
+| **GitDeets** | AI repo analyzer that converts source code into structured, prompt-ready context for copilots. Understands architecture, dependencies, patterns. | TypeScript, NVIDIA NIM (LLaMA 3.3 49B), GitIngest |
+| **BiasLens** | Real-time fairness monitoring for production models. Tracks demographic parity, equalized odds, calibration. Auto-generates debiasing transformations with minimal accuracy tradeoff. | Scikit-learn, SHAP, Fairlearn, Streamlit |
+| **Plant New Roots** | Adaptive language learning with cultural context. Spaced repetition + GPT-4o personalized exercises. Multilingual ASR + fine-tuned correction models for speaking/writing evaluation. | Gemini, Whisper, Dialogflow CX, Flask |
 
 ---
 
-### 🧰 Tech Stack
----
+### 🧰 Core Tech Stack
 
-### Core AI & ML Stack  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+**AI/ML Foundation**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
 ![JAX](https://img.shields.io/badge/-JAX-000000?style=flat)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn)
+
+**LLM & Agents**  
 ![LangChain](https://img.shields.io/badge/-LangChain-2E86C1?style=flat)
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-FFB6C1?style=flat)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)
+![Anthropic](https://img.shields.io/badge/-Anthropic-181818?style=flat)
+
+**Production & Scale**  
 ![Ray](https://img.shields.io/badge/-Ray-1E90FF?style=flat)
-![Weights & Biases](https://img.shields.io/badge/-Weights%20%26%20Biases-FFBE00?style=flat&logo=weightsandbiases)
-![ONNX](https://img.shields.io/badge/-ONNX-005CED?style=flat&logo=onnx)
+![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 
----
+**Data & Vectors**  
+![Pinecone](https://img.shields.io/badge/-Pinecone-5A6DFF?style=flat)
+![Weaviate](https://img.shields.io/badge/-Weaviate-3C4AD9?style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?style=flat&logo=neo4j)
 
-### Full-Stack Development  
+**Full-Stack**  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
-![Apollo](https://img.shields.io/badge/-Apollo-311C87?style=flat&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-FD5200?style=flat&logo=timescaledb)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
 
----
-
-### DevOps & Cloud Infrastructure  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana)
+**Cloud & Infra**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake)
-![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform)
 
 ---
 
-### Data Engineering & Pipelines  
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark)
-![dbt](https://img.shields.io/badge/-dbt-F16234?style=flat&logo=dbt)
-![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka)
-![Pinecone](https://img.shields.io/badge/-Pinecone-5A6DFF?style=flat&logo=pinecone)
-![Weaviate](https://img.shields.io/badge/-Weaviate-3C4AD9?style=flat)
+### 🎯 What I'm Exploring Now
+
+- **Personal intelligence architectures** — how to make accumulated context truly queryable and generative
+- **Sub-100ms streaming inference** — WebSocket-based LLM serving with speculative decoding and KV-cache optimization
+- **Knowledge graph dynamics** — force-directed layouts, relationship strength modeling, temporal decay functions
+- **Voice-first UX** — making speech the primary input without sacrificing precision (Deepgram Nova-3 + custom endpoint detection)
 
 ---
 
-### Security & Observability  
-![HashiCorp Vault](https://img.shields.io/badge/-Vault-000000?style=flat&logo=vault)
-![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-6E4AFF?style=flat)
+### 📫 Let's Connect
 
+Interested in: Personal intelligence platforms, production ML systems, agentic workflows, voice-first interfaces, and culturally-aware NLP.
+
+Always down to discuss technical architecture, especially around real-time inference, knowledge graphs, or building products that understand human context.
 
 ---
-
-### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=glendonC&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=glendonC&theme=tokyonight&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=glendonC&theme=tokyonight&show_icons=true&hide=stars" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=glendonC&theme=tokyonight&hide_border=true" height="165"/>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=glendonC&theme=tokyo-night" width="95%"/>
-</div>
-
----
