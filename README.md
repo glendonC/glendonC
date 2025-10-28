@@ -86,10 +86,10 @@ Outside tech: soccer, tennis, korean and piano practice
 
 ### What I'm Exploring Now
 
-- **Personal intelligence architectures** - how to make accumulated context truly queryable and generative
-- **Sub-100ms streaming inference** — WebSocket-based LLM serving with speculative decoding and KV-cache optimization
-- **Knowledge graph dynamics** — force-directed layouts, relationship strength modeling, temporal decay functions
-- **Voice-first UX** — making speech the primary input without sacrificing precision (Deepgram Nova-3 + custom endpoint detection)
+- **Personal intelligence architectures** how to make accumulated context truly queryable and generative
+- **Sub-100ms streaming inference** WebSocket-based LLM serving with speculative decoding and KV-cache optimization
+- **Knowledge graph dynamics** force-directed layouts, relationship strength modeling, temporal decay functions
+- **Voice-first UX** making speech the primary input without sacrificing precision (Deepgram Nova-3 + custom endpoint detection)
 
 ---
 
