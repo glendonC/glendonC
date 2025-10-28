@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-I'm building **Seorak**, a personal intelligence platform that turns your words into a queryable knowledge web. Not another productivity app. Not generic AI advice. Your actual context, made visual and actionable.
+I'm building **Seorak**, a personal intelligence platform that turns your words into a queryable knowledge web. Your actual context, made visual and actionable.
 
 What drives my work:
 - **Personal intelligence systems** that understand you, not just data
@@ -87,7 +87,7 @@ Outside tech: soccer, tennis, korean and piano practice
 
 ### 🎯 What I'm Exploring Now
 
-- **Personal intelligence architectures** — how to make accumulated context truly queryable and generative
+- **Personal intelligence architectures** -how to make accumulated context truly queryable and generative
 - **Sub-100ms streaming inference** — WebSocket-based LLM serving with speculative decoding and KV-cache optimization
 - **Knowledge graph dynamics** — force-directed layouts, relationship strength modeling, temporal decay functions
 - **Voice-first UX** — making speech the primary input without sacrificing precision (Deepgram Nova-3 + custom endpoint detection)
