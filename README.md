@@ -18,7 +18,7 @@
 
 <img align="right" alt="Coding" width="300" src="kakaofriends-kakao-talk.gif" />
 
-### 👨‍💻 About Me
+### About Me
 
 I'm building **Seorak**, a personal intelligence platform that turns your words into a queryable knowledge web. Your actual context, made visual and actionable.
 
@@ -29,7 +29,7 @@ What drives my work:
 
 Outside tech: soccer, tennis, korean and piano practice
 
-### 💡 Other Projects
+### Other Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -44,7 +44,7 @@ Outside tech: soccer, tennis, korean and piano practice
 
 ---
 
-### 🧰 Core Tech Stack
+### Core Tech Stack
 
 **AI/ML Foundation**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
@@ -84,7 +84,7 @@ Outside tech: soccer, tennis, korean and piano practice
 
 ---
 
-### 🎯 What I'm Exploring Now
+### What I'm Exploring Now
 
 - **Personal intelligence architectures** - how to make accumulated context truly queryable and generative
 - **Sub-100ms streaming inference** — WebSocket-based LLM serving with speculative decoding and KV-cache optimization
@@ -93,7 +93,7 @@ Outside tech: soccer, tennis, korean and piano practice
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 Interested in: Personal intelligence platforms, production ML systems, agentic workflows, voice-first interfaces, and culturally-aware NLP.
 
