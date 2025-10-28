@@ -5,7 +5,6 @@
 
 <h3 align="center">
   Building personal intelligence systems where your data becomes clarity.<br>
-  IT EDGE Analyst @ DTCC | MSDS @ UT Austin (2024–2025) | BACS @ UVA (2021–2023)
 </h3>
 
 <div align="center">
