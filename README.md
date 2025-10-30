@@ -18,7 +18,7 @@
 
 <img align="right" alt="Coding" width="300" src="kakaofriends-kakao-talk.gif" />
 
-### About Me
+### About
 
 I'm building **Seorak**, a personal intelligence platform that turns your words into a queryable knowledge web. Your actual context, made visual and actionable.
 
@@ -29,7 +29,7 @@ What drives my work:
 
 Outside tech: soccer, tennis, korean and piano practice
 
-### Other Projects
+### Other Works
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -84,7 +84,7 @@ Outside tech: soccer, tennis, korean and piano practice
 
 ---
 
-### What I'm Exploring Now
+### Exploring
 
 - **Personal intelligence architectures** how to make accumulated context truly queryable and generative
 - **Sub-100ms streaming inference** WebSocket-based LLM serving with speculative decoding and KV-cache optimization
